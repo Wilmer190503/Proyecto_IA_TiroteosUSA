@@ -1,13 +1,12 @@
 ![Banner](Banner_IA.png)
-
+# UNIVERSIDAD INDUSTRIAL DE SANTANDER (UIS)
 # Tiroteos en USA 
 
-Este proyecto utiliza técnicas de inteligencia artificial para predecir el número de víctimas (heridos y fallecidos) en tiroteos simulados en Estados Unidos, aplicando modelos de redes neuronales y clustering no supervisado.
+El presente proyecto se abarca un análisis descriptivo e inferencial sobre los tiroteos ocurridos en Estados Unidos. Con este fin, se utilizó un conjunto de datos que contiene información detallada sobre los incidentes de tiroteos, incluyendo variables como la fecha, ubicación, número de víctimas, entre otros. Esto con el objetivo de aplicar diferentes temas vistos en la asignatura durante el semeste académico en un contexto real y de relevancia social.
 
 ## Presentado por:
 - **Wilmer Andres Romero Cala** - 2214102  
 - **Jhonalber David Rangel Medina** - 2225510  
-- Universidad Industrial de Santander
 
 ## Objetivos del Proyecto
 - Aplicar técnicas de inteligencia artificial para analizar y predecir el impacto de tiroteos en EE.UU., mediante modelos de aprendizaje supervisado y no supervisado, con el fin de extraer patrones relevantes y hacer predicciones sobre víctimas.
